@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172764050136",
+    "firebase_url": "https://alumni-portal-77cd7.firebaseio.com",
+    "project_id": "alumni-portal-77cd7",
+    "storage_bucket": "alumni-portal-77cd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172764050136:android:f322af54561fbc65819dad",
+        "android_client_info": {
+          "package_name": "com.alwahesolutions.alumni_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172764050136-38fic6c643dhnm67ger7dbk01hol5h43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzfta3SFi9cdMeyYg-jhQYk1kB5kWSIzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172764050136-38fic6c643dhnm67ger7dbk01hol5h43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
